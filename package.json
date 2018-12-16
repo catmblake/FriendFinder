@@ -1,0 +1,24 @@
+{
+  "name": "FriendFinder",
+  "version": "1.0.0",
+  "description": "FriendFinder is a compatibility-based friend finding application. Similar to a dating app, this full-stack application creates a profile for each user based on their answers to a survey. It then compare their profile with those from other users. The app finds the person's closest match in the system and displays the name and picture of their recommended friend. ### Overview ### How To Use FriendFinder ### FriendFinder In Action",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catmblake/FriendFinder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catmblake/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/catmblake/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
