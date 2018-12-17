@@ -1,11 +1,10 @@
 // requiring dependencies
 var express = require("express");
 var app = express();
+var path = require("path");
 var PORT = process.env.PORT || 8080;
 
-app.get("/", function (req, res) {
-    res.send("Hello World");
-});
+require("./app/routing/htmlRoutes.js")(app);
 app.listen(PORT, function() {
 console.log(`App is listening on port ${PORT}`);
 });
