@@ -6,11 +6,11 @@ var userData = [
         "scores": [
             5, 
             5, 
-            4, 
             5, 
-            4, 
-            3, 
-            4, 
+            5, 
+            5, 
+            5, 
+            5, 
             5, 
             5, 
             5]
@@ -20,15 +20,15 @@ var userData = [
         "photo": "https://images.pexels.com/photos/713312/pexels-photo-713312.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=500&w=500",
         "scores": [
             3, 
-            2, 
-            2, 
-            4, 
             3, 
-            4, 
-            4, 
-            5, 
             3, 
-            2]
+            3, 
+            3, 
+            3, 
+            3, 
+            3, 
+            3, 
+            3]
     },
     {
         "name": "Ray",
@@ -37,13 +37,13 @@ var userData = [
             1, 
             1, 
             1, 
-            3, 
-            2, 
             1, 
             1, 
             1, 
-            2, 
-            3]
+            1, 
+            1, 
+            1, 
+            1]
     }
 ];
 
