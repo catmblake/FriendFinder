@@ -6,10 +6,10 @@ FriendFinder is a compatibility-based friend finding application. Similar to a d
 * HTML pages styled using the Bootstrap CSS Framework
 * JavaScript logic for UI functionality
 * jQuery library to manipulate html
-* ajax to post form data to the friends API
+* AJAX to post form data to the friends API
 
 **Back-End Components:**
-* npm packages express and path
+* NPM packages Express and Path
 
 ### How To Use FriendFinder
 ### FriendFinder In Action
