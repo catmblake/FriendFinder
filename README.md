@@ -17,6 +17,6 @@ Input from the FriendFinder UI is posted to the server where it is stored as a u
 * JavaScript logic for data processing of user input and compatibility calculations
 
 ### How To Use FriendFinder
-FriendFinder is deployed on Heroku at: https://friend-finder-fsf.herokuapp.com/. To use the app simply wisit this page and click the link to the survey. Once you submit all of your answers to the survey questions FriendFinder will provide your best friend match.
+FriendFinder is deployed on Heroku at: https://friend-finder-matching-app.herokuapp.com/. To use the app simply wisit this page and click the link to the survey. Once you submit all of your answers to the survey questions FriendFinder will provide your best friend match.
 
 ### FriendFinder In Action
