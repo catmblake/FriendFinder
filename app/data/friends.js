@@ -1,9 +1,9 @@
 // array of potential friends objects
 var userData = [
     {
-        name: "Amy",
-        photo: "https://www.pexels.com/photo/portrait-photo-of-smiling-woman-wearing-white-sweater-1171032/",
-        scores: [
+        "name": "Amy",
+        "photo": "https://www.pexels.com/photo/portrait-photo-of-smiling-woman-wearing-white-sweater-1171032/",
+        "scores": [
             5, 
             1, 
             4, 
