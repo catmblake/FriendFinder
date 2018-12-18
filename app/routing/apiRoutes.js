@@ -29,6 +29,5 @@ module.exports = function (app) {
         res.json(bestFriend);
 
         userData.push(newUser);
-
     });
 };
