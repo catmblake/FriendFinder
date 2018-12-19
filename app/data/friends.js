@@ -46,5 +46,5 @@ var userData = [
             1]
     }
 ];
-
+// exporting the array userData
 module.exports = userData;
